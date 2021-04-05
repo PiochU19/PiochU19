@@ -3,7 +3,7 @@
 
 As you can see, from one project to antoher I'm trying something new to increase my skill. (Car Rental first, Link Shortener last)
 
-- 🌱 I’m currently learning **Django, REST Framework, React**
+- 🌱 I’m currently learning **Django, REST Framework, React/Gatsby/Next**
 
 - 📫 How to reach me **792954018@wp.pl**
 
