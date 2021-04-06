@@ -2,6 +2,7 @@
 <h3 align="center">I'm self-made and I'm learning everything quite quickly</h3>
 
 As you can see, from one project to antoher I'm trying something new to increase my skill. (Car Rental first, Link Shortener last)
+Currently I'm working on a car rental, similiar to my first ever Django project, to show how much I've learned.
 
 - 🌱 I’m currently learning **Django, REST Framework, React/Gatsby/Next**
 
