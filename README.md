@@ -9,6 +9,5 @@
 - 📫 How to reach me **792954018@wp.pl**
 
 - ⚡ Fun fact **I'm keen on football, basketball and speedway.**
-<div align="center">
-  ![Languages I'm using](https://github-readme-stats.vercel.app/api/top-langs/?username=PiochU19&layout=compact)
-</div>
+
+![Languages I'm using](https://github-readme-stats.vercel.app/api/top-langs/?username=PiochU19&layout=compact)
