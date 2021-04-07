@@ -11,7 +11,3 @@
 - ⚡ Fun fact **I'm keen on football, basketball and speedway.**
 
 ![Languages I'm using](https://github-readme-stats.vercel.app/api/top-langs/?username=PiochU19&layout=compact)
-
-### Spotify Playing Now 🎧
-
-[<img src="https://spotify-now-playing-git-master-piochu19.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/f2640c9930b34650b874e851aac40c1f)
