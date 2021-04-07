@@ -10,4 +10,4 @@
 
 - ⚡ Fun fact **I'm keen on football, basketball and speedway.**
 
-[![Languages I'm using](https://github-readme-stats.vercel.app/api/top-langs/?username=PiochU19&layout=compact)](https://github.com/PiochU19/github-readme-stats)
+[![Languages I'm using](https://github-readme-stats.vercel.app/api/top-langs/?username=PiochU19&layout=compact)](https://github.com/PiochU19/github-readme-stats) ![PiochU19's GitHub stats](https://github-readme-stats.vercel.app/api?username=PiochU19&show_icons=true&theme=drakula)
