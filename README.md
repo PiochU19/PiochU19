@@ -9,3 +9,5 @@
 - 📫 How to reach me **792954018@wp.pl**
 
 - ⚡ Fun fact **I'm keen on football, basketball and speedway.**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiochU19)](https://github.com/anuraghazra/github-readme-stats)
