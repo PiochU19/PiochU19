@@ -10,4 +10,6 @@
 
 - 🏈 Fun fact **I'm keen on football, basketball and speedway.**
 
-![Languages I'm using](https://github-readme-stats.vercel.app/api/top-langs/?username=PiochU19&layout=compact)
+<div align="center">
+  ![Languages I'm using](https://github-readme-stats.vercel.app/api/top-langs/?username=PiochU19&layout=compact)
+</div>
