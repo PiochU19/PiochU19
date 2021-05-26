@@ -4,7 +4,7 @@
 <h3>As you can see, from one project to antoher I'm trying something new to increase my skill. (Car Rental first, Superb Car Rental last)</h3>
 <h3>Currently I'm working on a Live Price Tracker.</h3>
 
-- 💳 I’m currently mastering **Django, REST Framework, React/Gatsby/Next**
+- 💳 I’m currently mastering **Django, DRF, React**
 
 - 📫 How to reach me **792954018@wp.pl**
 
