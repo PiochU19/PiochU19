@@ -1,3 +1,5 @@
+![Github Background](https://github.com/PiochU19/PiochU19/blob/main/background-github.png?raw=true)
+
 <h1 align="center">Hi everyone 👋, I'm Dominik</h1>
 <h3 align="center">I'm self-made and I'm learning everything quite quickly</h3>
 
