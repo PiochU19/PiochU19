@@ -1,7 +1,7 @@
 Hi 👋 My name is Dominik Pioś
 =============================
 
-Python Developer
+Python Developer in Polcode
 ----------------
 
 I am self-taught who is not afraid of new technologies. I try to solve problems I encounter, and if I fail, it is easy for me to find a solution on the Internet. For the time being, I am mastering my abilities because I want to get better and better, so I am quite a goal-oriented person.
