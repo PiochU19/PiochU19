@@ -1,7 +1,5 @@
-Python Full-Stack Developer in Polcode
+Python Full-Stack Developer
 =============================
-
-I am self-taught who is not afraid of new technologies. I try to solve problems I encounter, and if I fail, it is easy for me to find a solution on the Internet. For the time being, I am mastering my abilities because I want to get better and better, so I am quite a goal-oriented person.
 
 <a href="https://www.github.com/PiochU19" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/PiochU19?logo=github&style=for-the-badge&color=22c55e&labelColor=312e81" /></a>
